@@ -1,0 +1,48 @@
+html{
+	padding: 0px;
+	margin: 0px;
+}
+html, body, #wrapper{
+	height: 100%;
+	width: 100%;
+}
+
+#menu-toggle{
+	padding: 5px;
+	background: black;
+	color: white;
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 80px;
+	border: none;
+	position: absolute;
+}
+#menu-toggle:hover{
+	background: #ffdb58; /* musturd yello*/
+	color: white;
+}
+
+/*pricing tab*/
+#pricingcardtab{
+	background: white;
+}
+#pricingcardtab  a{
+	color: black;
+}
+#pricingcardtab ul li a {
+	color: black;
+}
+#pricingcardtab ul li a.active {
+	color: black;
+	background: #ffdb58; /* musturd yello*/
+}
+#SocialMediaHeader{
+  margin-top: 0px;
+}
+#SocialMediaHeader > .container > .d-inline a{
+	text-decoration: none;
+	color: #ffdb58 ;
+}
+#SocialMediaHeader > div{
+	padding: 15px;
+}

@@ -1,0 +1,40 @@
+html{
+	padding: 0px;
+	margin: 0px;
+}
+html, body, #wrapper{
+	height: 100%;
+	width: 100%;
+}
+
+#menu-toggle{
+	padding: 5px;
+	background: black;
+	color: white;
+	margin-top: 15px;
+	margin-left: 15px;
+	width: 80px;
+	border: none;
+	position: absolute;
+}
+#menu-toggle:hover{
+	background: #ffdb58; /* musturd yello*/
+	color: white;
+}
+#SocialMediaHeader{
+	margin-top: 15px
+}
+#SocialMediaHeader > div{
+	padding: 15px;
+}
+#header, #secondcontent{
+	margin-top: 15px;
+}
+
+/*styling the infobox*/
+	#SocialMediaHeader{
+  margin-top: 0px;
+}
+#SocialMediaHeader > div{
+  padding: 2px;
+}
