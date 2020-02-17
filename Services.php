@@ -111,20 +111,8 @@
 								<li id="cardNav-items" class="nav-item">
 									<a href="#family" data-toggle="tab" role="tab" class="nav-link">Family</a>
 								</li>
-								<li id="cardNav-items" class="nav-item">
-									<a href="#Couple" data-toggle="tab" role="tab" class="nav-link">Couple and Engagment</a>
-								</li>
-								<!-- <li id="cardNav-items" class="nav-item">
-									<a href="#Matric" data-toggle="tab" role="tab" class="nav-link">Matric Farewell</a>
-								</li>
-								<li id="cardNav-items" class="nav-item">
-									<a href="#Events" data-toggle="tab" role="tab" class="nav-link">Events</a>
-								</li> -->
-
-								<!--
-								<li id="cardNav-items" class="nav-item">
-									<a href="#Paintings" data-toggle="tab" role="tab" class="nav-link">Paintings</a>
-								</li> -->
+								
+								
 							</ul>
 						</div>
 
@@ -229,7 +217,7 @@
 							<div role="tab-panel" id="family" class="tab-pane fade in">
 								<div class="card-group">
 									<div class="card">
-										<img class="card-img-top" src="images/Family/1.jpg" alt="Card image cap">
+										<img class="card-img-top" src="https://images.pexels.com/photos/2253879/pexels-photo-2253879.jpeg?cs=srgb&dl=family-of-four-walking-at-the-street-2253879.jpg&fm=jpg" alt="Card image cap">
 										<div class="card-body">
 											<h5 class="card-title">Basic Package</h5>
 											<p class="card-text">45 Minute Shoot</p>
@@ -241,7 +229,7 @@
 
 
 									<div class="card">
-										<img class="card-img-top" src="images/Family/2.jpg" alt="Card image cap">
+										<img class="card-img-top" src="https://images.pexels.com/photos/1128318/pexels-photo-1128318.jpeg?cs=srgb&dl=man-standing-beside-his-wife-teaching-their-child-how-to-1128318.jpg&fm=jpg" alt="Card image cap">
 										<div class="card-body">
 											<h5 class="card-title">Basic Package</h5>
 											<p class="card-text">1 Hour Shoot</p>
@@ -253,7 +241,7 @@
 
 
 									<div class="card">
-										<img class="card-img-top" src="images/Family/3.jpg" alt="Card image cap">
+										<img class="card-img-top" src="https://images.pexels.com/photos/1128317/pexels-photo-1128317.jpeg?cs=srgb&dl=a-man-and-a-woman-assisting-a-girl-while-jumping-1128317.jpg&fm=jpg" alt="Card image cap">
 										<div class="card-body">
 											<h5 class="card-title">Basic Package</h5>
 											<p class="card-text">1 Hour, 30 Minute shoot</p>
