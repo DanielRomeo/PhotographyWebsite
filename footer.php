@@ -57,7 +57,7 @@
               </li>
             </ul>
             <p class="copyright text-muted">Copyright &copy; Insanity Is Rare 2018</p> <br />
-            <p class="copyright text-muted">Website Designed and Written by <a href="macbase.co.za">MacbaseWeb</a></p>
+            <p class="copyright text-muted">Website Designed and Written by <a href="http://macbase.co.za">Macbase Software</a></p>
           </div>
         </div>
       </div>

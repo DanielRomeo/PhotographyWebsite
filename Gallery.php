@@ -15,105 +15,106 @@
 		<?php include("store.php") ?>
 		<style type="text/css">
 			<?php echo $headerstyle ?>
+			
 			html,body{
-	margin: 0px;
-	padding: 0px;
-}
-#menu-toggle{
-	padding: 5px;
-	background: black;
-	color: white;
-	margin-top: 15px;
-	margin-left: 15px;
-	width: 80px;
-	border: none;
-	position: absolute;
-}
-#menu-toggle:hover{
-	background: #ffdb58; /* musturd yello*/
-	color: white;
-}
-#SocialMediaHeader{
-	margin-top: 15px
-}
-#SocialMediaHeader > div{
-	padding: 15px;
-}
-#SocialMediaHeader > .container > .d-inline a{
-	text-decoration: none;
-	color: #ffdb58 ;
-}
-img{
-	max-height: 450px;
-	max-width: ;
-}
-#entireElse{
-  max-width: 1000px;
-  float: none;
-  margin: auto; 
-}
-#portfolio {  
-    margin: 1rem 0;
-    -webkit-column-count: 3; 
-    -moz-column-count: 3;
-    column-count: 3;
-    -webkit-column-gap: 1rem;
-    -moz-column-gap: 1rem;
-    column-gap: 1rem;
-    -webkit-column-width: 33.33333333333333%;
-    -moz-column-width: 33.33333333333333%;
-    column-width: 33.33333333333333%;
-}
-.tile { 
-    -webkit-transform: scale(0);
-    transform: scale(0);
-    -webkit-transition: all 350ms ease;
-    transition: all 350ms ease;
+				margin: 0px;
+				padding: 0px;
+			}
+			#menu-toggle{
+				padding: 5px;
+				background: black;
+				color: white;
+				margin-top: 15px;
+				margin-left: 15px;
+				width: 80px;
+				border: none;
+				position: absolute;
+			}
+			#menu-toggle:hover{
+				background: #ffdb58; /* musturd yello*/
+				color: white;
+			}
+			#SocialMediaHeader{
+				margin-top: 15px
+			}
+			#SocialMediaHeader > div{
+				padding: 15px;
+			}
+			#SocialMediaHeader > .container > .d-inline a{
+				text-decoration: none;
+				color: #ffdb58 ;
+			}
+			img{
+				max-height: 450px;
+				max-width: ;
+			}
+			#entireElse{
+			  max-width: 1000px;
+			  float: none;
+			  margin: auto; 
+			}
+			#portfolio {  
+			    margin: 1rem 0;
+			    -webkit-column-count: 3; 
+			    -moz-column-count: 3;
+			    column-count: 3;
+			    -webkit-column-gap: 1rem;
+			    -moz-column-gap: 1rem;
+			    column-gap: 1rem;
+			    -webkit-column-width: 33.33333333333333%;
+			    -moz-column-width: 33.33333333333333%;
+			    column-width: 33.33333333333333%;
+			}
+			.tile { 
+			    -webkit-transform: scale(0);
+			    transform: scale(0);
+			    -webkit-transition: all 350ms ease;
+			    transition: all 350ms ease;
 
-}
-.tile:hover { 
+			}
+			.tile:hover { 
 
-}
+			}
 
-.scale-anm {
-  transform: scale(1);
-}
+			.scale-anm {
+			  transform: scale(1);
+			}
 
 
 
-.tile img {
-    max-width: 100%;
-    width: 100%;
-    height: auto;
-    margin-bottom: 1rem;
-}
+			.tile img {
+			    max-width: 100%;
+			    width: 100%;
+			    height: auto;
+			    margin-bottom: 1rem;
+			}
 
-.btn {
-    background: white;
-    margin: 5px;
-    padding: 3px;
-    color: black;
-}
+			.btn {
+			    background: white;
+			    margin: 5px;
+			    padding: 3px;
+			    color: black;
+			}
 
-.btn:hover {
-  text-decoration: none;
-  background: #ffdb58; /* musturd yello*/
-  color: white;
-}
+			.btn:hover {
+			  text-decoration: none;
+			  background: #ffdb58; /* musturd yello*/
+			  color: white;
+			}
 
-/*.btn:focus {
-  outline: none;
-  border-color: var(--darken-2);
-  box-shadow: 0 0 0 3px var(--darken-3);
-}
+			/*.btn:focus {
+			  outline: none;
+			  border-color: var(--darken-2);
+			  box-shadow: 0 0 0 3px var(--darken-3);
+			}
 
-::-moz-focus-inner {
-  border: 0;
-  padding: 0;
-}*/
-#entirenavigation{
-	width: 100%;
-}
+			::-moz-focus-inner {
+			  border: 0;
+			  padding: 0;
+			}*/
+			#entirenavigation{
+				width: 100%;
+			}
 		</style>
 		<link rel="stylesheet" type="text/css" href="css/gall.css" />
 	</head>
@@ -193,65 +194,17 @@ img{
 		    	</style>
 
 		    	<div class="toolbar mb2 mt2">
-		       	  <button id="allcategoriesbutton" class="btn fil-cat active" href="" data-rel="all">All</button>
-				  <button id="" class="btn  fil-cat" href="" data-rel="graduations">graduations</button>
-				  <!-- <button class="btn btn-outline-primary fil-cat" data-rel="fashion">Fashion</button> -->
-				  <button class="btn  fil-cat" data-rel="product">product</button>
-				  <button class="btn  fil-cat" data-rel="pregnancy">pregnancy</button>
-				  <button class="btn  fil-cat" data-rel="babyshower">babyshower</button>
-				  <button class="btn  fil-cat" data-rel="boutiquebrand">boutiquebrand</button>
-				  <button class="btn  fil-cat" data-rel="newborn">newborn</button>
-				  <button class="btn  fil-cat" data-rel="matricdance">matricdance</button>
-				  <button class="btn  fil-cat" data-rel="engagementandbridal">engagmentandbridal</button>
-				  <!-- <button class="btn  fil-cat" data-rel="portraitsandfun">portraitsandfun</button> -->
-				</div> 
+		       	  <button id="allcategoriesbutton" class="btn fil-cat active" href="" data-rel="all">All photos</button>
+				 
+				  <!-- <button class="btn  fil-cat" data-rel="pregnancy">pregnancy</button>
+				  <button class="btn  fil-cat" data-rel="weddings">weddings</button>
+				  <button class="btn  fil-cat" data-rel="family">family</button>
+				</div>  -->
 				 
 				<div id="portfolio">
-
-					<!-- graduations -->
-			  		<?php echo $graduations; ?>
-
-				  <!-- weddings -->
 				  <?php echo $weddings; ?>
-
-				  <!-- parties -->
-				  <?php  echo $parties; ?>
-				  
-				  <!-- fashion -->
-				  <!-- <?php  echo $fashion; ?> -->
-
-				  <!-- events -->
-				  <?php  echo $events; ?>
-
-				  <!-- portraitsandfun -->
-				  <!-- <?php  echo $portraitsandfun; ?> -->
-
-				  <!-- product -->
-				  <?php  echo $product; ?>
-
-				  <!-- prefnancy -->
 				  <?php  echo $pregnancy; ?>
-
-				  <!-- boutiquebrand -->
-				  <?php echo $boutiquebrand; ?>
-				  
-				  <!-- newborn -->
-				  <?php  echo $newborn; ?>
-
-				  <!-- engagementandbridal -->
-				  <?php  echo $engagementandbridal; ?>
-
-				  <!-- portraitsandfun -->
-				  <?php  echo $portraitsandfun; ?>
-
-				  <!-- matric Dance -->
-				  <?php  echo $babyshower; ?>
-
-				  <!-- portraitsandfun -->
-				  <?php  echo $babyshower; ?>
-
-				  <!-- matric dance -->
-				  <?php echo $matricdance ?>
+				  <?php  echo $family; ?>
 				</div>
 
 				<div style="clear:both;"></div>
