@@ -3,13 +3,21 @@
 	<head>
 		<title>Insanity Photography</title>
 		<meta charset="utf-8">
+
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
+
 		<link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.css">
+
 		<link href="https://fonts.googleapis.com/css?family=Titillium+Web" rel="stylesheet">
 		<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+
+
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 		<link rel="icon" href="images/logo/macbaselogo.png">	 
+
+
 		<link rel="stylesheet" type="text/css" href="css/main.css" />
 		<?php include("header.php") ?>
 		<style type="text/css">
@@ -91,21 +99,21 @@
 			        </ol>
 
 			        <div class="carousel-inner" role="listbox">
-			          <div class="carousel-item active" style="background-image: url('images/Fashion/5.jpg')">
+			          <div class="carousel-item active" style="background-image: url('https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=blue-sky-clear-sky-cold-fog-346529.jpg&fm=jpg')">
 			            <div class="carousel-caption d-none d-md-block">
 			              <h3>Fashion Shoots</h3>
 			              <p>Dress up and let's have fun taking pictures anywhere you want, how you want!</p>
 			            </div>
 			          </div>
 			          
-			          <div class="carousel-item" style="background-image: url('images/PortraitsandFun/1.JPG')">
+			          <div class="carousel-item" style="background-image: url('https://images.pexels.com/photos/355465/pexels-photo-355465.jpeg?cs=srgb&dl=astronomy-beautiful-clouds-constellation-355465.jpg&fm=jpg')">
 			            <div class="carousel-caption d-none d-md-block">
 			              <h3>Portraits</h3>
 			              <p>We shoot professional, enviromental, street and studio portraits</p>
 			            </div>
 			          </div>
 
-			          <div class="carousel-item" style="background-image: url('images/wedding/6.jpg')">
+			          <div class="carousel-item" style="background-image: url('https://images.pexels.com/photos/355465/pexels-photo-355465.jpeg?cs=srgb&dl=astronomy-beautiful-clouds-constellation-355465.jpg&fm=jpg')">
 			            <div class="carousel-caption d-none d-md-block">
 			              <h3>Engagement and Bridal Shower</h3>
 			              <p>We also shoot Weddings and Baby Showers</p>
@@ -145,7 +153,7 @@
 
 						<div class="col-md-6">
 							<div>
-								<img class="img-fluid" src="images/Fashion/5.jpg" alt="Responsive image">
+								<img class="img-fluid" src="https://images.pexels.com/photos/1848565/pexels-photo-1848565.jpeg?cs=srgb&dl=photo-of-woman-sitting-on-stairs-1848565.jpg&fm=jpg" style="max-height: 450px;" alt="Responsive image">
 							</div>
 						</div>
 					</div>
@@ -171,7 +179,7 @@
 		                  <p class="mb-0">Wheather it's a graduation party or family picnic. We got you covered.</p>
 		                </span>
 		              </span>
-		              <img class="img-fluid" src="images/graduations/3.jpg" alt="">
+		              <img class="img-fluid" src="https://images.pexels.com/photos/901962/pexels-photo-901962.jpeg?cs=srgb&dl=woman-wearing-black-graduation-coat-sits-on-stairs-901962.jpg&fm=jpg" alt="">
 		            </a>
 		          </div>
 		          <div class="col-lg-6">
@@ -182,7 +190,7 @@
 		                  <p class="mb-0">We adore capturing kids, especially new born babies.</p>
 		                </span>
 		              </span>
-		              <img class="img-fluid" src="images/Newborn/1.JPG" alt="">
+		              <img class="img-fluid" src="https://images.pexels.com/photos/1148998/pexels-photo-1148998.jpeg?cs=srgb&dl=4k-wallpaper-adorable-blur-boy-1148998.jpg&fm=jpg" alt="">
 		            </a>
 		          </div>
 		          <div class="col-lg-6">
@@ -193,7 +201,7 @@
 		                  <p class="mb-0">We shoot all types of parties, collection of people and 1 on 1.</p>
 		                </span>
 		              </span>
-		              <img class="img-fluid" src="images/parties/1.JPG" alt="">
+		              <img class="img-fluid" src="https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?cs=srgb&dl=people-at-concert-1105666.jpg&fm=jpg" alt="">
 		            </a>
 		          </div>
 		          <div class="col-lg-6">
@@ -204,7 +212,7 @@
 		                  <p class="mb-0">Boutique Brand and Style Shoots, Different outfits, For hours.</p>
 		                </span>
 		              </span>
-		              <img class="img-fluid" src="images/boutiquebrand/1.jpg" alt="">
+		              <img class="img-fluid" src="https://images.pexels.com/photos/1884581/pexels-photo-1884581.jpeg?cs=srgb&dl=grayscale-photography-of-assorted-apparels-on-shelf-rack-1884581.jpg&fm=jpg" alt="">
 		            </a>
 		          </div>
 		        </div>

@@ -67,7 +67,6 @@
 			            </div>
 				    </div>
 				</div>
-	        </div>
 	        </div> <br/>
 
 
@@ -112,7 +111,7 @@
         				<h1>Basa Mnisi</h1>
 
         				<div class="view zoom">
-						    <img src="images/basa/1.jpg" style="max-height: 450px;" class=" img-fluid " alt="">
+						    <img src="https://images.pexels.com/photos/1848565/pexels-photo-1848565.jpeg?cs=srgb&dl=photo-of-woman-sitting-on-stairs-1848565.jpg&fm=jpg" style="max-height: 450px;" class=" img-fluid " alt="">
 						    <div class="mask flex-center">
 						        <!-- <p class="white-text">Zoom effect</p> -->
 						    </div>

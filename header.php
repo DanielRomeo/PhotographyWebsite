@@ -130,7 +130,7 @@ body {
                     </a>
                 </li>
                 <li>
-                    <a href="insanityisrare.co.za">Home</a>
+                    <a href="/insanityisrare">Home</a>
                 </li>        
                 <li>
                     <a href="Gallery.php">Gallery</a>
