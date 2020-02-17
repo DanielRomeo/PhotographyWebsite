@@ -164,7 +164,7 @@
 											<h2 class="display-4">R9 000</h2>
 										</div>
 									</div>
-
+								</div>
 									
 								<!--  -->
 							</div>
@@ -254,10 +254,10 @@
 									</div>
 								</div>
 							</div>	
-						</div>
-					</div>
-				</div>
-	        </div> 
+						</div> <!-- end of card block-->
+					</div> <!-- end of pricing card tab-->
+				</div> <!-- end of row-->
+	        </div> <!-- end of container --> 
 	        	        
 	        <!-- footer -->
 	        <?php include("footer.php") ?>
